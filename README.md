@@ -1,6 +1,17 @@
-# Smart Autonomous Parking Assistant
+
+
+
+# Smart Autonomous Parking Assistant 
 
 A real-time object-detection system built with an Arduino ultrasonic sensor, tiered LED/buzzer alerts, and a Python-based data pipeline for logging, live visualization, and anomaly detection.
+
+## Video Demo 
+https://github.com/user-attachments/assets/b9c1a78f-d701-41ff-81cd-e1d5cb9a91c2
+
+## Authors
+
+Inaam HAJAR - https://github.com/inaamhajar
+Yasmine BERNARD - https://github.com/jasobernnn
 
 ## Features
 
@@ -18,6 +29,7 @@ A real-time object-detection system built with an Arduino ultrasonic sensor, tie
 - **Firmware:** C++ (Arduino)
 - **Software:** Python, pyserial, matplotlib
 - **Tools:** Git, GitHub
+
 
 ## How It Works
 
