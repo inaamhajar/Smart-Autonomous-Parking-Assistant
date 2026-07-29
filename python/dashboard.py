@@ -7,7 +7,7 @@ print("Smart Parking Assistant Started")
 
 while True:
 
-    distance = random.randint(5, 100)
+    distance = int(serial_port.readline().decode().strip())
 
 
     if distance > 50:
